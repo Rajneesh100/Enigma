@@ -20,6 +20,9 @@ complexity :- ( 30! * 26! * 26! * 10! )
 complexity can be made even more tough by combining these all array in one array (max complexity : 92!) 
 the current configuration is in simplest form but still will take 4.560057e+68 years to decode actual message
 
+Limitations :
+  i didn't added options for emojis 🥲, we all know the importance of emojis for showing expressions, But wait we design a saprate list for emojis also and intresting thing is it's make our encription more tought to crack. 
+  there are around more than 500 emojis. if we add let's say k emojis also in our encription programe it will enhance it's complexcity by factor of (K!). so it's + point again.
 
 procedure :
 
