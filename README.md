@@ -23,7 +23,7 @@ complexity :- ( 30! * 26! * 26! * 10! )
 10!-> digits 0 to 9.
 
 complexity can be made even more tough by combining these all array in one array (max complexity : 92!) 
-the current configuration is in simplest form but still will take 4.560057e+68 years to decode actual message
+the current configuration is in simplest form but still will take 4.560057* (10^68) years to decode actual message
 
 Limitations :
 
