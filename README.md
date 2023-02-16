@@ -22,6 +22,7 @@ the current configuration is in simplest form but still will take 4.560057e+68 y
 
 
 procedure :
+
 step 1: 
  write down message in message.txt file 
 
