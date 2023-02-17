@@ -1,10 +1,10 @@
 # My-own-Enigma
 Enigma was one of the most complex physically made device !
 
-Main idea behind the project is to ensure privacy to the next level !🤷‍♂️ even all though now a days social media applications promises privacy but as long as their is a middle guy their is always a chance of breach so what i thought is :- why not we communicate in encrypted messages over these apps and lets our computers do decryption and encryption locally on our devices, no cloud processing! we can share a unique sequence with our friends and can use this encryption very effectively without any privacy related threats👍.
+Main idea behind the project is to ensure privacy to the next level !🤷‍♂️ even though now a days all social media applications promises privacy but as long as their is a middle guy their is always a chance of breach so what i thought is :- why not we communicate in encrypted messages over these apps and let our computers do decryption and encryption locally on our devices, no cloud processing! we can share a unique sequence with our friends and can use this encryption very effectively without any privacy related threats👍.
 we can simply design a bot to make process fully automated and abstracted( hide all complexities of programming ) to encrypt and  decrypt messages for us.
 
-About the project :  A Program to encrypt messages and decrypt again to generate readable messages and with (if ) knowing initial settings of encryption else spent 4.560057* (10^68) years to get actual settings😂
+About the project :  A Program to encrypt messages and decrypt again to generate readable messages and with (if ) knowing initial settings of encryption else spent 4.560057* (10^68) years to get actual settings😎
 
 this projects is meant to encrypt the messages in form of '.'  and ','  and '`'  (we can switch also to any four alphabets or can reduce to 2 or even 1 letters we just have to define one alphabet in terms of others like we can say ',' ='..' and just add a another simple transformation function but it will make regeneration too difficult for us but it's doable).
 
