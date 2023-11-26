@@ -1,4 +1,4 @@
-# My-own-Enigma
+# Enigma
 Enigma was one of the most complex physically made device !
 
 Main idea behind the project is to ensure privacy to the next level !🤷‍♂️ even though now a days all social media applications promises privacy but as long as their is a middle guy their is always a chance of breach so what i thought is :- why not we communicate in encrypted messages over these apps and let our computers do decryption and encryption locally on our devices, no cloud processing! we can share a unique sequence with our friends and can use this encryption very effectively without any privacy related threats👍.
