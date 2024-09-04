@@ -1,4 +1,31 @@
-Hey there, this message is totally encrypted! 
-It's like our own secret code language. 
-Only the friends with the right clearance can decode it.
-So don't worry, our secrets are safe!"
+C++ is       one of the world's most popular programming languages. 
+C++ can be found in today's operating systems, Graphical User Interfaces, 
+and embedded systems.
+C++ is an object-oriented programming language which gives a clear structure to programs and allows code to be reused,
+lowering development costs.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
